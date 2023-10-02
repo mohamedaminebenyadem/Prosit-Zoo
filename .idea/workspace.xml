@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33f79eca-7ca0-492e-9190-7cc20d1cd1e3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../arduino.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../arduino.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arduino.h" beforeDir="false" afterPath="$PROJECT_DIR$/../arduino.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../connexion1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../connexion1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dialog1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../dialog1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dialog1.h" beforeDir="false" afterPath="$PROJECT_DIR$/../dialog1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dialog1.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../dialog1.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mainwindow1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../mainwindow1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mainwindow1.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mainwindow1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mapping.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mapping.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stat1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../stat1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stat1.h" beforeDir="false" afterPath="$PROJECT_DIR$/../stat1.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1.pro.user" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1.pro.user" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2W42pyvAUvthHbFmLdetqhPsMGe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ahwed/Downloads/PrositZoo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33f79eca-7ca0-492e-9190-7cc20d1cd1e3" name="Changes" comment="" />
+      <created>1695977718214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695977718214</updated>
+      <workItem from="1695977719267" duration="6213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
